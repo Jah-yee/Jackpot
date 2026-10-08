@@ -22,7 +22,7 @@ The platform combines multiplayer gameplay, NFT ownership, blockchain integratio
 
 ### Core Features
 >✅ **Staking:** Lock PA tokens (and other supported assets) to earn rewards while funding the platform's gaming economy.        
->✅ **Gaming:** Casino-style games like roulette, slots, and prize wheels keep players engaged with quick, excitinh gameplay     
+>✅ **Gaming:** Casino-style games like roulette, slots, and prize wheels keep players engaged with quick, exciting gameplay.
 >✅ **Sports Betting:** Covers live and upcoming events, offering competitive odds and multiple bet types.                       
 >✅ **Academy:** An interative learning hub teaching Crypto basics, platform mechanics, and risk management to onboard newcomers.
 
